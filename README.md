@@ -16,30 +16,51 @@ As you can see with the pictures above the percentages have remained stable sinc
 * How is the school summary affected?
 
 **Old School Summary**
-![Old District Summary](Resources/new_school_summary.png)
+![Old School Summary](Resources/new_school_summary.png)
 
 **New School Summary**
-![New District Summary](Resources/old_school_summary.png)
+![New School Summary](Resources/old_school_summary.png)
+
+The Thomas High School % Passing for Math, Reading, and Overall Passing have all increased by at least 20%. This shows that the excluded data skewed the Thomas High School total perecentages greatly.
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+By replacing the 9th graders' math and reading scores, it brings Thomas High Schools in the top 5 overall performances in the school district.
+
+![Top 5 Schools](Resources/new_top_five_schools.png)
 
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
 
+**Math Scores**
+
+![Math Scores](Resources/new_math_scores_by_grade.png)
+
+**Reading Scores**
+
+![Reading Scores](Resources/new_reading_scores_by_grade.png)
+
+Excluding the data points did not effect the grade averages by school the rest remained fairly the same.
 
   * Scores by school spending
 
+![Spending](Resources/new_spending_summary.png)
+
+The spending did not change in any way, it remained about the same.
 
   * Scores by school size
 
+![Size](Resources/new_size_summary.png)
+
+Scores based by school size also remained fairly the same.
 
   * Scores by school type
 
+![Type](Resources/new_type_summary.png)
 
-* There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-
+Scores by school type changed a bit since Thomas High School rose in score stature, so charter schools are outperforming District in the % Passing for Math, Reading and Overall.
 
 ## Summary:
 
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+The changes that occurred after dropping the 9th graders' scores for math and reading for Thomas High School, did not drastically change the other score summary charts, such as spending, size and by grades, it did however, change scores by school type. The most change was in the overall top five school performers, as Thomas High School moved to the second spot. This means that for the school itself it rose in score stature, but the overall effect it had on the district and school summary analaysis was very minimal, if there were more than one school that need to have values exclude the data set would have changed drastically, but since it was only one school it changed certain outputs, but not all.
