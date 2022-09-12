@@ -5,10 +5,21 @@ Evidence has been found that the grades for reading and math for the 9th grades 
 ## Results:
 * How is the district summary affected?
 
+**Old School District Summary**
+![Old District Summary](Resources/old_school_district_summary.png)
 
+**New School District Summary**
+![New District Summary](Resources/new_district_analysis_summary.png)
+
+As you can see with the pictures above the percentages have remained stable since excluding the 9th graders from Thomas High School, so there has been little effect to the district school summary.
 
 * How is the school summary affected?
 
+**Old School Summary**
+![Old District Summary](Resources/new_school_summary.png)
+
+**New School Summary**
+![New District Summary](Resources/old_school_summary.png)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
